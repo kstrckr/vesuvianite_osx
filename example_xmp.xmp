@@ -1,0 +1,93 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:exifEX="http://cipa.jp/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crd="http://ns.adobe.com/camera-raw-defaults/1.0/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:Rating="0"
+   xmp:ModifyDate="2021-01-25T13:58:11.00"
+   xmp:CreateDate="2021-01-25T13:58:11.00"
+   xmp:MetadataDate="2021-02-01T02:03-05:00"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 5DS R"
+   tiff:Orientation="1"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/200"
+   exif:ShutterSpeedValue="7643856/1000000"
+   exif:FNumber="13/1"
+   exif:ApertureValue="7400879/1000000"
+   exif:ExposureProgram="1"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="100"
+   exif:ExposureBiasValue="0/1"
+   exif:MaxApertureValue="1/1"
+   exif:MeteringMode="5"
+   exif:FocalLength="35/1"
+   exif:CustomRendered="0"Q
+   exif:ExposureMode="1"
+   exif:WhiteBalance="1"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="79080107/32768"
+   exif:FocalPlaneYResolution="79080107/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2021-01-25T13:58:11.00"
+   aux:SerialNumber="334054000535"
+   aux:LensInfo="35/1 35/1 0/0 0/0"
+   aux:Lens="35mm F1.4 DG HSM | Art 012"
+   aux:LensID="368"
+   aux:LensSerialNumber="0000000000"
+   aux:ImageNumber="0"
+   aux:ApproximateFocusDistance="50/100"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.1.1"
+   exifEX:LensModel="35mm F1.4 DG HSM | Art 012"
+   photoshop:DateCreated="2021-01-25T13:58:11.00"
+   photoshop:SidecarForExtension="CR2"
+   photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
+   xmpMM:DocumentID="31B6F9CC39F4C2DA69FB5F2FD16DF874"
+   xmpMM:OriginalDocumentID="31B6F9CC39F4C2DA69FB5F2FD16DF874"
+   xmpMM:InstanceID="xmp.iid:3fa0e2bd-01ee-492d-b8b5-d6bff0848243"
+   dc:format="image/x-canon-cr2"
+   crd:CameraProfile="Camera Landscape"
+   crd:LookName=""
+   crs:HasSettings="False"
+   crs:CropTop="0.050845"
+   crs:CropLeft="0.24177"
+   crs:CropBottom="0.861565"
+   crs:CropRight="0.821008"
+   crs:CropAngle="4.346749"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="False">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:3fa0e2bd-01ee-492d-b8b5-d6bff0848243"
+      stEvt:when="2021-02-01T02:03-05:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 13.1 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
