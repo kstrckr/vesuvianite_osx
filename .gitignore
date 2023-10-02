@@ -509,7 +509,6 @@ local.properties
 *.slo
 *.lo
 *.o
-# *.a
 *.la
 *.lai
 *.so
@@ -1006,7 +1005,6 @@ _deps
 
 # Libraries
 *.lib
-*.a
 *.la
 *.lo
 
